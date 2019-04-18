@@ -6,3 +6,8 @@ body {
 h1 {
   font-family: sans-serif;
 }
+.mail {
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
